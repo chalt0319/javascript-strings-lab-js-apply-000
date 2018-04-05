@@ -8,6 +8,4 @@ var topic = "space";
 
 var conversation = `${topic}`;
 
-function specialGuest() {
-  return `Hello ${specialGuest}`
-}
+`Hello ${specialGuest}`
