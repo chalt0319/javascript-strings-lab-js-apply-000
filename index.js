@@ -11,3 +11,4 @@ var conversation = `${topic}`;
 function greetSpecialGuest(specialGuest) {
   console.log(`Hello, ${specialGuest}!`)
 }
+greetSpecialGuest()
